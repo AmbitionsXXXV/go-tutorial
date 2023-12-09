@@ -1,6 +1,8 @@
 go 1.21.4
 
 use (
+	./db-access
+	./fuzzing
 	./generics
 	./web-service-gin
 )
