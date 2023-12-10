@@ -3,5 +3,6 @@
     "gonic",
     "Tamago",
     "testcases"
-  ]
+  ],
+  "go.diagnostic.vulncheck": "Imports"
 }

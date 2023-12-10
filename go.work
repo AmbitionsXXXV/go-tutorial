@@ -4,5 +4,6 @@ use (
 	./db-access
 	./fuzzing
 	./generics
+	./vuln-tutorial
 	./web-service-gin
 )
